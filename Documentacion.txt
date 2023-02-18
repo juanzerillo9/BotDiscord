@@ -1,0 +1,39 @@
+DESARROLLADO POR JZ9 
+
+github.com/juanzerillo9
+
+DOCUMENTACION DEL TUKI BOT
+
+Comandos accesibles:
+/admins
+Este comando devuelve la lista de administradores y sus contactos.
+
+/documentacion
+Este comando esta destinado a compartir el link hasta este mismo documento, para cualquier comentario sobre el codigo del bot
+puede comunicarse con JZ9 etiquetandolo en el servidor o a traves del mail que se encontrara al final.
+
+/comandos
+Este comando estara destinado a una facil lectura de los comandos disponibles.
+
+/sum {num} {num}
+Este comando permite realizar una suma, forma parte de los comandos de prueba que se le añadieron al bot.
+
+/rest {num} {num}
+Este comando permite realizar una resta, forma parte de los comandos de prueba que se le añadieron al bot.
+
+/div {num} {num}
+Este comando permite realizar una division, forma parte de los comandos de prueba que se le añadieron al bot.
+
+/multi {num} {num}
+Este comando permite realizar una multiplicacion, forma parte de los comandos de prueba que se le añadieron al bot.
+
+El Tuki Bot incluye programas desarrolados por JZ9 como proyectos aparte.
+Para acceder a los mismos los comandos seran los siguientes: 
+
+/clima {ciudad}
+Este comando accede a la aplicacion clima, la misma esta publicada en el repositorio Python de mi github.
+
+
+
+// Documentacion en desarrollo! 
+Contacto: juanczerillo@outlook.com
